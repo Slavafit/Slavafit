@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Slavafit
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Slavafit/Slavafit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Viacheslav Fitlin
+- 👀 I’m interested electronics and computers, programming.
+- 🌱 I’m currently learning website development Full Stack
+- 💞️ I’m looking to collaborate with Internet application development companies.
+- 📫 How to reach me in: Telegramm:@Slavafit, linkedin: https://www.linkedin.com/in/viacheslav-fitlin-7b83b3279
+- I’m open for communication and suggestions!
