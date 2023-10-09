@@ -2,5 +2,5 @@
 - 👀 I’m interested electronics and computers, programming.
 - 🌱 I’m currently learning website development Full Stack
 - 💞️ I’m looking to collaborate with Internet application development companies.
-- 📫 How to reach me in: Telegramm:@Slavafit, linkedin: [https://www.linkedin.com](https://www.linkedin.com/in/slavafit/)
+- 📫 How to reach me in: Telegramm:@Slavafit, linkedin: [https://www.linkedin.com/in/slavafit/](https://www.linkedin.com/in/slavafit/)
 - I’m open for communication and suggestions!
